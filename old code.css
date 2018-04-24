@@ -1,0 +1,235 @@
+/*Heading with Navbar*/
+
+.name {
+  float: left;
+  text-align: left;
+  width: 960px; 
+}
+
+ul {
+  float: right;
+}
+
+li {
+  display: inline;
+}
+
+.link {
+  padding: 5px;
+}
+
+.header {
+  background-color: white;
+  margin: 0 auto;
+  padding: 50px;
+  position: relative;
+  width: 960px;
+}
+
+
+<div class="container">
+<img class="port" src="../Basic-Portfolio/assets/images/Portfolio-Images/heart-incomp.png">
+<img class="port1" src="../Basic-Portfolio/assets/images/Portfolio-Images/heart-incomp.png">
+<img class="port2" src="../Basic-Portfolio/assets/images/Portfolio-Images/heart-incomp.png">
+<img class="port3" src="../Basic-Portfolio/assets/images/Portfolio-Images/heart-incomp.png">  
+  <div>
+      <a href="comingsoon.html">
+        <h4 class="one">Coming Soon!</h4>
+      </a>
+      <a href="comingsoon.html">
+        <h4 class="two">Coming Soon!</h4>
+      </a>
+      <a href="comingsoon.html">
+        <h4 class="three">Coming Soon!</h4>
+      </a>
+      <a href="comingsoon.html">
+        <h4 class="four">Coming Soon!</h4>
+      </a>
+  </div>  
+</div>
+
+
+
+.container {
+  position: relative;
+}
+.port {
+  position: relative;
+  top: 0;
+  padding: 15px;
+}
+.port1 {
+  position: relative;
+  top: 0;
+  left: 15%;
+  padding: 15px;
+}
+
+.port2{
+  position: relative;
+  top: 250px;
+  right: 469px;
+  padding: 15px;
+}
+
+.port3 {
+  position: relative;
+  top: 14px;
+  left: 43.3%;
+  padding: 15px;
+}
+
+/*Pictures*/
+
+.one {
+  position: absolute;
+  top: 78px;
+  background-color: #4aaaa5;
+  color: white;
+  text-align: center;
+  padding-left: 52px;
+  padding-right: 46px;
+  padding-bottom: 13px;
+  padding-top: 15px;
+  margin: auto 15px;
+}
+
+.two {
+  position: absolute;
+  top: 16.5%;
+  right: 29.3%;
+  background-color: #4aaaa5;
+  color: white;
+  text-align: center;
+  padding-left: 52px;
+  padding-right: 46px;
+  padding-bottom: 13px;
+  padding-top: 15px;
+  margin: auto 15px;
+}
+.three {
+  position: absolute;
+  top: 328px;
+  background-color: #4aaaa5;
+  color: white;
+  text-align: center;
+  padding-left: 52px;
+  padding-right: 46px;
+  padding-bottom: 13px;
+  padding-top: 15px;
+  margin: auto 15px;
+}
+
+.four {
+  position: absolute;
+  top: 328px;
+  right: 298px;
+  background-color: #4aaaa5;
+  color: white;
+  text-align: center;
+  padding-left: 52px;
+  padding-right: 46px;
+  padding-bottom: 13px;
+  padding-top: 15px;
+  margin: auto 15px;
+}
+
+
+<div class="row">
+<div class="column">
+    <img class="port" src="../Basic-Portfolio/assets/images/Portfolio-Images/heart-incomp.png">
+    <img class="port1" src="../Basic-Portfolio/assets/images/Portfolio-Images/heart-incomp.png">
+</div>
+<div class="column">
+    <img class="port2" src="../Basic-Portfolio/assets/images/Portfolio-Images/heart-incomp.png">
+    <img class="port3" src="../Basic-Portfolio/assets/images/Portfolio-Images/heart-incomp.png">  
+</div>
+</div>
+</div>
+
+
+
+.container {
+  position: relative;
+}
+
+.port {
+  position: relative;
+  top: 0;
+  padding: 15px;
+}
+.port1 {
+  position: relative;
+  top: 0;
+  left: 15%;
+  padding: 15px;
+}
+
+.port2{
+  position: relative;
+  top: 250px;
+  right: 469px;
+  padding: 15px;
+}
+
+.port3 {
+  position: relative;
+  top: 14px;
+  left: 43.3%;
+  padding: 15px;
+}
+
+/*Pictures*/
+
+.one {
+  position: absolute;
+  top: 78px;
+  background-color: #4aaaa5;
+  color: white;
+  text-align: center;
+  padding-left: 52px;
+  padding-right: 46px;
+  padding-bottom: 13px;
+  padding-top: 15px;
+  margin: auto 15px;
+}
+
+.two {
+  position: absolute;
+  top: 16.5%;
+  right: 29.3%;
+  background-color: #4aaaa5;
+  color: white;
+  text-align: center;
+  padding-left: 52px;
+  padding-right: 46px;
+  padding-bottom: 13px;
+  padding-top: 15px;
+  margin: auto 15px;
+}
+.three {
+  position: absolute;
+  top: 328px;
+  background-color: #4aaaa5;
+  color: white;
+  text-align: center;
+  padding-left: 52px;
+  padding-right: 46px;
+  padding-bottom: 13px;
+  padding-top: 15px;
+  margin: auto 15px;
+}
+
+.four {
+  position: absolute;
+  top: 328px;
+  right: 298px;
+  background-color: #4aaaa5;
+  color: white;
+  text-align: center;
+  padding-left: 52px;
+  padding-right: 46px;
+  padding-bottom: 13px;
+  padding-top: 15px;
+  margin: auto 15px;
+}
